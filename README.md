@@ -1,0 +1,2 @@
+# social_media_site
+hey there, looking at mark zuckerberg getting famous from making facebook, i always fanticised making a social media app. While learning web dev, i thought of implementing those skills in trying to copy a social media app. I made a social media website with CRUD features where user can put images along with a caption. The picture can be clicked to read that further and post a comment. Only logged in people can comment. You can always edit/delete your posts and comments both.
